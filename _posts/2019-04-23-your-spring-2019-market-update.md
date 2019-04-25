@@ -28,7 +28,7 @@ Is our market currently a buyer’s or a seller’s market?&nbsp;
 
 April is the month that the real estate market tends to pick up, and that’s definitely the case this year. With the way the weather had been—rainy, cold, and dreary—it didn’t seem like anybody wanted to list their homes or go out and take a look at properties, but now activity is warming back up.
 
-Just a couple months ago, we’d typically get three to five people coming through an open house. However, just last weekend, we saw 20 or 30 people come through an open house. There has definitely been a significant increase in traffic throughout the housing market.
+Just a couple of months ago, we’d typically get three to five people coming through an open house. However, just last weekend, we saw 20 or 30 people come through an open house. There has definitely been a significant increase in traffic throughout the housing market.
 
 As I mentioned, the market is beginning to balance itself out, skewing more toward a buyer’s market. **But as the real estate season gets underway, we’ll see it shift back a little closer to a seller’s market.** Overall, the market is good and healthy.
 
