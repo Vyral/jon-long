@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Sold “AS IS” Really Means
-date: 2019-05-13 20:20:49
+date: 2019-05-13 20:20:00
 tags:
   - Home Seller Tips
 excerpt: Learn what it means when a preoperty is sold as-is.
