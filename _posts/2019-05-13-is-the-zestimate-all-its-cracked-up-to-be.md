@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is The Zestimate All It’s Cracked Up to Be?
-date:
+date: 2019-05-13 20:26:09
 tags:
   - Home Buyer Tips
   - Home Seller Tips
