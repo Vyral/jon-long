@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Trouble With Zillow’s Zestimates
-date: 2019-05-21 18:52:54
+date: 2019-05-21 18:52:00
 tags:
   - Home Seller Tips
 excerpt: >-
