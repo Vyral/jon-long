@@ -32,7 +32,7 @@ Zestimates are created through algorithms that rely on public data, such as MLS 
 
 {% include pullquote.html %}
 
-**Where the Zestimate falls short, though, is in its assessment of certain features and updates that come with your home.** If you have a lot that’s 10,000 square feet, for example, the Zestimate will fail to take into account how much of that is usable. The age of your updates is a factor it will leave off the valuation as well—Was your home updated just a few years ago or was it done as far back as the 90s? &nbsp;
+**Where the Zestimate falls short, though, is in its assessment of certain features and updates that come with your home.** If you have a lot that’s 10,000 square feet, for example, the Zestimate will fail to take into account how much of that is usable. The age of your updates is a factor it will leave off the valuation as well—was your home updated just a few years ago or was it done as far back as the 90s? &nbsp;
 
 A real estate professional who works in your area will know it inside and out, and they’ll be more precise when evaluating your home than a Zestimate could ever be. **You’d be well-advised to reach out to an agent who serves buyers and sellers in your area because they’ll have exposure to the most up-to-date offers in your market.** That way, they can get you the best value for your home. &nbsp;&nbsp;
 
