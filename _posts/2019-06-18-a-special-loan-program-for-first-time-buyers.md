@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Special Loan Program for First-Time Buyers
-date: 2019-06-18 14:53:14
+date: 2019-06-18 14:53:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -28,7 +28,7 @@ But, if you’re a first-time homebuyer in search of a down payment assistance p
 
 {% include pullquote.html %}
 
-**CalHFA stands for the California Housing Finance Agency, and through this program, you can get downpayment assistance when you purchase a home.** There are a ton of different guidelines to follow under this program that vary by county. In general, however, **to be eligible, you have to meet certain income and credit qualifications, and the property itself must be under a certain value.**
+**CalHFA stands for the California Housing Finance Agency, and through this program, you can get down payment assistance when you purchase a home.** There are a ton of different guidelines to follow under this program that vary by county. In general, however,**&nbsp;you have to meet certain income and credit qualifications **to be eligible**, and the property itself must be under a certain value.**
 
 For example, to be eligible here in Orange County, your income cannot exceed &nbsp;$174,200. There is a catch, though: You cannot have a cosigner on the loan if they don’t occupy that property alongside you.
 
