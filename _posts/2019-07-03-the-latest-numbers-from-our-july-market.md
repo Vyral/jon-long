@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Numbers From Our July Market
-date: 2019-07-03 17:28:45
+date: 2019-07-03 17:28:00
 tags:
   - Market Update
 excerpt: I’m back with your July 2019 real estate market update!
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/july-market-update-youtube.jpg
-youtube_code: TU0g5LZGt8I
+youtube_code: PD4lnfCaU3k
 ---
 
 {% include youtube.html %}
 
-There are a few things to take a look at with respect to our north Orange County market in our update today, but we’re paying extra attention to how the leading indicators compare to the lagging indicators. In other words: how many homes are coming onto the market, how many are already on the market, how many are going into escrow, and how many are selling?
+There are a few things to take a look at with respect to our North Orange County market in our update today, but we’re paying extra attention to how the leading indicators compare to the lagging indicators. In other words: how many homes are coming onto the market, how many are already on the market, how many are going into escrow, and how many are selling?
 
 **In most cases, the number of new homes coming on to the market is rising, and the number of homes currently on the market is higher than it was a year ago.** That said, the number of homes going into escrow and the number of homes that are selling is falling. This naturally leads to a higher inventory.
 
@@ -41,4 +41,4 @@ Overall, the market is continuing to keep pace with how it has been over the las
 
 Now that we’ve entered the summer market, **consumer activity is up.** You can still sell your home at a great price, and buyers have a lot more options to choose from in addition to being able to take advantage of our rates.
 
-If you have any questions about the market or about buying/selling real estate, please feel free to reach out to me. I’d love to help you achieve your goals.
+If you have any questions about the market or about buying or selling real estate, please feel free to reach out to me. I’d love to help you achieve your goals.
