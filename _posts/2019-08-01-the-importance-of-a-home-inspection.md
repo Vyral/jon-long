@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of a Home Inspection
-date: 2019-08-01 20:12:04
+date: 2019-08-01 20:12:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -28,7 +28,7 @@ Home inspections are an essential step in the real estate process, but why is th
 
 A general home inspection will cost about $500 on average, but specialized inspections can be ordered for an additional fee.&nbsp;
 
-Buyers will generally order an inspection during their due diligence period once they’ve gone under contract on a home, but **sellers may also find it beneficial to order their own inspection before the property hits the market.** Doing so will alert them to any problems that need to be resolved before their home goes live.
+Buyers will generally order an inspection during their due diligence period once they’ve gone under contract on a home, but **sellers may also find it beneficial to order their own inspection before the property hits the market.** Doing so will alert them to any problems that need to be resolved before their home goes live.<br>&nbsp;
 
 {% include pullquote.html %}&nbsp;
 
