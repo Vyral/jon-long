@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Appraisals Explained
-date: 2019-08-15 19:53:08
+date: 2019-08-15 19:53:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -30,6 +30,6 @@ Unfortunately, because appraisers are only human, the process isn’t without it
 
 **Regardless of these potential pitfalls, though, an appraisal is still a necessary step in the real estate process.** Even sellers should consider ordering one before listing their home on the market. This way, they can be sure that no issues related to financing will arise once they’ve gone under contract with an interested buyer. However, it’s important to realize that the value this pre-listing appraisal assigns to your home won’t necessarily be the price you sell for. It’s simply a good ballpark figure to keep in mind.&nbsp;
 
-**Unlike an appraiser, your agent sees what’s going on in the market every single day.** In addition to just looking at comparable homes, high-quality Realtors also keep tabs on current trends. Agents understand that these things also play a role in your home’s value. We keep in mind what the average would be willing to pay for your home, as well.&nbsp;
+**Unlike an appraiser, your agent sees what’s going on in the market every single day.** In addition to just looking at comparable homes, high-quality Realtors also keep tabs on current trends. Agents understand that these things also play a role in your home’s value. We keep in mind what the average buyer would be willing to pay for your home, as well.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
