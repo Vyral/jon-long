@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your August 2019 Real Estate Market Update
-date: 2019-09-13 19:29:49
+date: 2019-09-13 19:29:00
 tags:
   - Market Update
 excerpt: Our real estate market is in a unique place right now. Here’s what I mean.
@@ -17,7 +17,7 @@ youtube_code: d7o9znR1Oj0
 
 {% include youtube.html %}
 
-We’re heading into fall and we’re seeing more of the same from the real estate market. Over the last few months, we’ve had a market that’s sectioned off based on two specific factors. **The market you’re in depends on your location and price range.**
+We’re heading into fall and we’re seeing more of the same from the real estate market. Over the last few months, we’ve had a market that’s sectioned off based on two specific factors: **Your location and price range.**
 
 **Anything under $600,000 is still in a slight seller’s market.** These homes aren’t staying on the market for much longer than a month and we are still seeing multiple offers in some cases.
 
@@ -31,6 +31,6 @@ In the luxury market of $850,000 and above, we have a much stronger buyer’s ma
 
 What does this mean for you? If you’re a buyer in that $600,000-and-below range, there is going to be plenty of competition for you. **The higher you go in price, the more power you have as a buyer.**
 
-If you’re a seller, you should know that home values are staying pretty steady. What’s keeping them steady is interest rates, but we don’t know when those are going to go up. **Low interest rates gives buyers more purchasing power and increased the pool of buyers that are looking at your home.**
+If you’re a seller, you should know that home values are staying pretty steady. What’s keeping them steady is interest rates, but we don’t know when those are going to go up. **Low interest rates give buyers more purchasing power and increase the pool of buyers that are looking at your home.**
 
 If you have any other questions for me about the market or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
