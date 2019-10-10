@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Your August 2019 Real Estate Market Update
+title: Your Real Estate Market Update
 date: 2019-09-13 19:29:00
 tags:
   - Market Update
 excerpt: Our real estate market is in a unique place right now. Here’s what I mean.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jon+Long/Videos/September/Your+August+2019+Real+Estate+Market+Update.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jon+Long/Videos/September/Your+Real+Estate+Market+Update.mp4
 pullquote: 'The higher you go in price, the more power you have as a buyer.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/august-update-youtube.jpg
+youtube_alternate_image: /uploads/august-update-youtube-1.jpg
 youtube_code: d7o9znR1Oj0
 ---
 
