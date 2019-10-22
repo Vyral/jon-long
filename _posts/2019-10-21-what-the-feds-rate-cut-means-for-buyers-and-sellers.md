@@ -27,10 +27,10 @@ What affects interest rates most, though, is investors buying bonds here in the 
 
 On top of that, American investors are buying up bonds as the potential for a trade war looms ahead. Combine that with the recent rate cut, and you have a recipe for advantageous market conditions. As it stands, the current rate for a 30-year fixed mortgage is right around 3.5%, but I wouldn’t be surprised if rates fall further in the coming months.
 
-More to the point, **when interest rates are lower, buyers’ purchasing power goes up.** For sellers, this means buyers can pay more for your home, and when it’s your turn to go into buying mode, you’ll also enjoy greater purchasing power.&nbsp;
+More to the point, when interest rates are lower, buyers’ purchasing power goes up. For sellers, this means buyers can pay more for your home, and when it’s your turn to go into buying mode, you’ll also enjoy greater purchasing power.&nbsp;
 
 If you’re a buyer, do me a favor: Go talk to your parents or grandparents and ask them about the interest rates they’ve paid over their lifetime. My prediction is they’ll say you’d be foolish to pass up this opportunity.&nbsp;
 
-Some are concerned about a market correction that could lead to sinking home values, and while no one has a crystal ball, waiting could cost you. Say a year from now, the property you decide to purchase has dropped in value by $20,000 and your loan amount is for $500,000. A seemingly small 1% rate increase is $5,000 a year.&nbsp;
+Some are concerned about a market correction that could lead to sinking home values, and **while no one has a crystal ball, waiting could cost you.** Say a year from now, the property you decide to purchase has dropped in value by $20,000 and your loan amount is for $500,000. A seemingly small 1% rate increase is $5,000 a year.&nbsp;
 
 If you have any questions or would like more information, please feel free to reach out to me anytime. I’d be happy to help\!
