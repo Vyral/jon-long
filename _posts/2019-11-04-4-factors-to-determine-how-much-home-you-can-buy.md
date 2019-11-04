@@ -13,7 +13,7 @@ pullquote: My recommendation is to get pre-qualified by a lender.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/how-much-money-do-you-need-to-buy-youtube.jpg
 youtube_code: qNY-j9F2MRA
 ---
 
