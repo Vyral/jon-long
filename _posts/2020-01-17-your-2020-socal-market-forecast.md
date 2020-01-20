@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2020 SoCal Market Forecast
-date: 2020-01-17 21:21:25
+date: 2020-01-17 21:21:00
 tags:
   - Market Update
 excerpt: Here’s my 2020 market forecast for Southern California.
@@ -25,8 +25,8 @@ For the past two years, people have been wondering when the next recession will 
 
 {% include pullquote.html %}
 
-Here in Southern California, the dip in interest rates from 4% and above in 2018 down to the 3.5% in 2019 didn’t spur activity that much. That’s because we have more of an affordability problem. Plenty of people want to buy but are being blocked by the high expense.&nbsp;
+Here in Southern California, the dip in interest rates from 4% and above in 2018 down to 3.5% in 2019 didn’t spur activity that much. That’s because we have more of an affordability problem. Plenty of people want to buy but are being blocked by the high expense.&nbsp;
 
-Though we’re not seeing homes come down in value, it’s also harder for them to go up in value. Expect 2020 to be very similar to the last six months of 2019. At the end of this year is the general election. Naturally, the current administration will want to keep market conditions favorable (e.g., maintaining rates low) so it reflects positively on them heading into November.&nbsp;
+Though we’re not seeing homes come down in value, it’s also harder for them to go up in value. Expect 2020 to be very similar to the last six months of 2019. At the end of this year is the general election. Naturally, the current administration will want to keep market conditions favorable (e.g., maintaining low rates) so it reflects positively on them heading into November.&nbsp;
 
 Pricing will continue to be as important as ever; if you overprice a home, it’ll sit on the market. As always, if you have any questions, feel free to reach out to me via phone or email. I’m happy to help you any way I can.
