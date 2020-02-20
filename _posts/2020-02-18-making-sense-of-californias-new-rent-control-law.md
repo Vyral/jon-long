@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Sense of California’s New Rent Control Law
-date: 2020-02-18 17:53:34
+date: 2020-02-18 17:53:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -30,6 +30,6 @@ In general, most people support having some kind of rent control, at least in th
 
 When I look at this legislation, I personally don’t take issue with it. The maximum allowed increase, 10% year to year, is still quite large for many tenants. There is, however, one issue that investors have pointed out: If you take over a property, and the previous owner did a poor job of keeping the rent consistent with market value (e.g., they hadn’t increased rent in 10 years), your new tenants may be paying way below what they should be. As a new investor, it will be very difficult for you to bring that rent back up to market value under the new rent control law.&nbsp;
 
-That’s why it’s important for you to keep abreast of current market rents if you’re interested in becoming a landlord. As somebody who does property management for some clients, there are times when we don’t necessarily raise rent, especially if we have a really good tenant who’s been there for a really long time. We do, however, always make sure we stay within a certain range of market value.&nbsp;
+That’s why it’s important for you to keep abreast of current market rents if you’re interested in becoming a landlord. As somebody who does property management for some clients, there are times when we don’t necessarily raise rent, especially if we have a good tenant who’s been there for a really long time. We do, however, always make sure we stay within a certain range of market value.&nbsp;
 
-If you ever have property management questions, or want more information on this new rent control law, feel free to reach out by phone or email. I’d be happy to discuss any topic with you or pass along the appropriate information.
+If you ever have property management questions or want more information on this new rent control law, feel free to reach out by phone or email. I’d be happy to discuss any topic with you or pass along the appropriate information.
