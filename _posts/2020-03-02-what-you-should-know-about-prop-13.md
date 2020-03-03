@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About Prop 13
-date: 2020-03-02 21:52:50
+date: 2020-03-02 21:52:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -24,12 +24,12 @@ There has been a lot of talk out there lately about Proposition 13 and the state
 
 Right now, the state is talking about getting rid of this proposition. However, they’re not talking about getting rid of it entirely. **The main discussion is getting rid of Prop 13 for commercial properties.&nbsp;**
 
-Let’s say you bought a commercial property for $1 million in the 70s and it’s worth $5 million today. With a value and tax payment that much higher, you’re going to take a serious hit as an investor.
+Let’s say you bought a commercial property for $1 million in the 70's and it’s worth $5 million today. With a value and tax payment that much higher, you’re going to take a serious hit as an investor.
 
 {% include pullquote.html %}
 
 **Although it starts with commercial real estate, I believe this will lead to a future battle with multi-family homes, and then, single-family homes.**
 
-Here’s an example to think about. My grandma bought her home in the 70s for $35,000. Her property tax bill today is $1,200 per year. She’s living off of social security, which is about $2,500 per month. If Prop 13 went away, she would be going from paying $100 a month to almost $800. That would have a negative effect on a lot of homeowners like her.
+Here’s an example to think about. My grandma bought her home in the 70's for $35,000. Her property tax bill today is $1,200 per year. She’s living off of social security, which is about $2,500 per month. If Prop 13 went away, she would be going from paying $100 a month to almost $800. That would have a negative effect on a lot of homeowners like her.
 
 If you have any questions about Prop 13 or anything else related to real estate, feel free to reach out via phone or email at any time. I look forward to hearing from you soon.
